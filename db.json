@@ -1,17 +1,6 @@
 {
   "projects": [
     {
-      "name": "Sistema de Mercadinho",
-      "budget": "2500",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "Sistema para Estudo",
       "budget": "1600",
       "category": {
@@ -23,15 +12,15 @@
       "id": 3
     },
     {
-      "name": "camisa",
-      "budget": "520",
+      "name": "Sistema de Gestão ",
+      "budget": "1560",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
-      "id": 4
+      "id": 5
     }
   ],
   "categories": [
